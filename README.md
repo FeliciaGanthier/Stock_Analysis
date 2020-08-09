@@ -25,13 +25,13 @@ To make the sheet more user friendly so Steve can focus on financial analysis, I
 
 In 2017, all but one of the selected stocks produced positive returns. DQ showed the best return of almost 200% but was traded the least (35M times). SPWR was traded the most (782M times) and had a 23% return.  The data shows Steve’s parents’ theory is incorrect this year. 
 
-![2017 Stock Performance] (https://github.com/FeliciaGanthier/Stock_Analysis/blob/master/Resources/VBA_Challenge_2017.png)
+![2017 Stock Performance](https://github.com/FeliciaGanthier/Stock_Analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
 *2018 Stock Performance*
 
 In 2018, only two of the selected stocks produced positive returns. DQ was traded 107M times and showed a -62% return. This year, Steve’s parents’ theory is still incorrect but if they followed it, they would have had a positive return. ENPH was traded the most at 607M times and showed an 82% return, 2% lower than year leader, RUN. 
 
-![2018 Stock Performace] (https://github.com/FeliciaGanthier/Stock_Analysis/blob/master/Resources/VBA_Challenge_2018.png)
+![2018 Stock Performace](https://github.com/FeliciaGanthier/Stock_Analysis/blob/master/Resources/VBA_Challenge_2018.png)
 
 *Execution Times*
 
